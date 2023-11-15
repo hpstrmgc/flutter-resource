@@ -3,4 +3,5 @@ sumber daya untuk kalian yang ingin mempelajari Flutter, saya harap ini dapat me
 
 # Buku - Tautan
 1. https://www.syncfusion.com/succinctly-free-ebooks/confirmation/flutter-succinctly
-2. flutter-succinctly.pdf
+
+[repositori ini masih dalam tahap pengerjaan, mohon bersabar!]
